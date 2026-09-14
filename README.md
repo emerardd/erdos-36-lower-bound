@@ -185,7 +185,7 @@ should be described separately if obtained.
 ## Archive
 
 Canonical repository:
-https://github.com/emerardd/erdos-36-lower-bound-0380557
+https://github.com/emerardd/erdos-36-lower-bound
 
 GitHub release `v1.1.0` contains the arXiv source ZIP, release SHA-256 manifest,
 and the same verification transcript archived here.
