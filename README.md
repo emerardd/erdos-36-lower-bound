@@ -77,7 +77,7 @@ vendored Arb balls against `0.38056070`.
 
 ## Current proof package
 
-The files below are the current trusted path for `v1.1.0`:
+The files below are the current trusted path for `v1.1.1`:
 
 - `paper.pdf` - the CI-built PDF corresponding to the current proof note.
 - `paper.tex` - proof note source.
@@ -182,13 +182,22 @@ should be described separately if obtained.
 - Independent audit of Price's certificate:
   https://github.com/occisn/erdos-36-certified-lower-bound
 
+## Version 1.1.1
+
+This maintenance release organizes the historical package under `legacy/v1.0.1/`,
+makes the paper PDF and archived verification transcript available in the repository,
+and corrects repository and citation links after the rename. The theorem target,
+paper source, current certificate, and current verifier are unchanged from `v1.1.0`.
+The transcript under `verification/RELEASE_VERIFICATION_038056070.txt` records
+the original `v1.1.0` run; the `v1.1.1` Release carries its own fresh transcript.
+
 ## Archive
 
 Canonical repository:
 https://github.com/emerardd/erdos-36-lower-bound
 
-GitHub release `v1.1.0` contains the arXiv source ZIP, release SHA-256 manifest,
-and the same verification transcript archived here.
+GitHub release `v1.1.1` contains the arXiv source ZIP, release SHA-256 manifest,
+and a fresh verification transcript from its exact release commit.
 
 Zenodo concept DOI (always resolves to the latest archived version):
 
